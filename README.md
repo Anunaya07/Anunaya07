@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Anunaya;I'm+an+AI+enthusiastist!&center=true&font=Architects+Daughter&size=50&width=1200)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Anunaya;I'm+an+AI+enthusiastist!&center=true&font=Architects+Daughter&size=40&width=1200)](https://git.io/typing-svg)
 
 <p align=center>
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Anunaya07?color=g&logo=github&style=for-the-badge">
