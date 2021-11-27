@@ -13,7 +13,7 @@
 <br>
 
   - 🔭 I’m currently working on Web Development
-  - 🌱 I’m currently learning: Express JS
+  - 🌱 I’m currently learning: Flask
   - 💬 Ask me about: python
   - 📫 How to reach me:through [mail](mailto:20BCS001@iiitdmj.ac.in) and [linkedin](https://www.linkedin.com/in/anunaya-a-a01b56202/)
   - 😄 Pronouns: She/Her.
